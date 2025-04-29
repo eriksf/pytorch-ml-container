@@ -24,5 +24,7 @@ RUN pip install pytorch-lightning==2.5.1 \
     click==8.1.8 \
     rich==14.0.0 \
     diffusers==0.33.1 \
-    accelerate==1.6.0
+    accelerate==1.6.0 \
+    sentencepiece==0.2.0 \
+    sacremoses==0.1.1
 
